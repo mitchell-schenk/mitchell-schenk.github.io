@@ -55,4 +55,8 @@
     float: none;
     display:inline-block;
     vertical-align: top;  
+    
+   
 }
+.navbar-nav a { font-size: 20px; }
+
